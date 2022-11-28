@@ -1,12 +1,16 @@
 # NEXT 13 Weather App
 
-## Getting Started
+See the result here ⬇️
+
+https://next-13-weather-app.netlify.app/
 
 First, run the development server:
 
 ```bash
+npm install
 npm run dev
 # or
+yarn
 yarn dev
 ```
 
