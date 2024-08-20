@@ -45,7 +45,7 @@ export default function Home() {
   return (
     <div className={styles.mainWrapper}>
       <Head>
-        <title>Next Weather App</title>
+        <title>Weather forecast for cities around the world</title>
       </Head>
       <Paper className={styles.paper} p="lg">
         <Box ta={"center"}>
@@ -55,7 +55,7 @@ export default function Home() {
             sx={{ fontFamily: "Greycliff CF, sans-serif" }}
             order={2}
           >
-            Next 13 Weather App!
+            City weather
           </Title>
           <Text fs="italic" c="dimmed">
             Enter a city, and get the weather below
